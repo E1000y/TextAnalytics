@@ -58,4 +58,4 @@ plt.show()
 
 ## Contributing
 
-Please read the CONTRIBUTING.md
+Please read the CONTRIBUTING.md hahaha
